@@ -838,7 +838,7 @@ namespace dlib
                     std::numeric_limits<size_t>::max(),
                     &forward_best_algo));
 #endif
-            forward_algo = forward_best_algo;
+            //forward_algo = forward_best_algo;
 
 
 
